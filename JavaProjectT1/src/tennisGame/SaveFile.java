@@ -32,7 +32,7 @@ public class SaveFile {
 ////    	ScoreBoard sb = new ScoreBoard();
 //    	SaveFile saveFile = new SaveFile(".\\src\\tennisGame\\SaveFile.txt");
 ////    	saveFile.saveScorePalyer(플레이어, 세트, 게임, 점수);
-//        saveFile.saveScorePalyer(pr.name[0], 0, 1, 15);
+//        saveFile.saveScorePalyer(pr.name[0], 0, 1, 15);	//이름이 null값으로 나와서 확인중
 //        saveFile.saveScorePalyer(pr.name[1], 1, 3, 40);
 //        
 //        // Scanner 닫기
