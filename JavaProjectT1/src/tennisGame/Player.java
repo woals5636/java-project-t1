@@ -38,6 +38,9 @@ public class Player {
 
         // Scanner 닫기
         scanner.close();
+        
+        GameMethod gameMethod = new GameMethod();
+        gameMethod.gameCheck();
     }
 
 	
